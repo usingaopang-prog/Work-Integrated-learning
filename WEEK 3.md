@@ -21,3 +21,7 @@ Mr Sebanda requested that we perform website restoration on the **Zonke website*
 ## Day 14 — 7 October 2026
 
 I requested that a meeting be held for the software restoration of the **Zonke website** and to discuss with the team how we would go about the adjustments to the code, given that the code used was **PHP** and one should be able to use it and work their way around it.
+
+## Day 15 -12 October 2026
+
+We were working on Zonke and ensuring that it can run locally.
