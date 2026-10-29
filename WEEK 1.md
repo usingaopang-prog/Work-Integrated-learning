@@ -14,6 +14,7 @@ https://usingaopang-prog.github.io/No-one-can-be-you.io-/
 
 I attended a **Coxy Wallet event**, where Mr. Bernard Sebanda introduced me to **blockchain technology**. The session highlighted the breadth of the IT field and reinforced the principle that continuous learning is essential for professional growth. I gained an appreciation for the importance of ongoing skill development and strategic investment in my future career.
 
+
 ## Day 4 — 14 September 2026
 
 My facilitator, **Mr. F. Kato**, assigned me and my colleagues the task of inspecting the hardware at the office to ensure that all equipment was functioning efficiently. We conducted a thorough inspection and collaboratively compiled a report detailing our findings and observations.
