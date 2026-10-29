@@ -7,6 +7,7 @@ https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#c
 ## Day 2 — 7 September 2026
 
 I was introduced to **Haskell**, the programming language used to develop the **Coxy Wallet**. My task was to integrate Haskell into my professional portfolio. This introduction provided me with insight into functional programming concepts and their application in blockchain wallet development.
+https://usingaopang-prog.github.io/No-one-can-be-you.io-/ 
 
 ## Day 3 — 11 September 2026
 
