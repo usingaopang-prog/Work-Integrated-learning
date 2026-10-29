@@ -3,7 +3,7 @@
 ## Day 1 — 4 September 2026
 
 I was assigned the task of evaluating the functionality of the **Zonke freelance website**. I conducted a comprehensive test of the website to verify that all features and functionalities were operating correctly. During this evaluation, I identified several areas where the website was not functioning as intended. Following the assessment, I compiled a formal report documenting the specific issues discovered, providing a clear record of the findings for review and further action.
-
+https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#computer-investigation-report 
 ## Day 2 — 7 September 2026
 
 I was introduced to **Haskell**, the programming language used to develop the **Coxy Wallet**. My task was to integrate Haskell into my professional portfolio. This introduction provided me with insight into functional programming concepts and their application in blockchain wallet development.
