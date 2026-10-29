@@ -12,7 +12,8 @@ we had a meeting on testing and ensurng that the apps are working.
 
 ## Day 18 — 23 October 2026
 
-We did hardware dignsotics and wrote a report on it.
+The team and I were assigned to check the functionalities of the devices at the office to ensure their full functionality. We performed trouble shooting and really dove deep into hardware dignostics and ensured that we leave no stone untouched.
+
 ---
 
 ## Day 19 — 26 October 2026
