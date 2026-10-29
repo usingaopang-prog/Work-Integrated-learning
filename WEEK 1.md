@@ -3,6 +3,7 @@
 ## Day 1 — 4 September 2026
 
 I was assigned the task of evaluating the functionality of the **Zonke freelance website**. I conducted a comprehensive test of the website to verify that all features and functionalities were operating correctly. During this evaluation, I identified several areas where the website was not functioning as intended. Following the assessment, I compiled a formal report documenting the specific issues discovered, providing a clear record of the findings for review and further action.
+ https://github.com/usingaopang-prog/Zonke-website-survey#webpage-errors-and-issues-report
  
 ## Day 2 — 7 September 2026
 
