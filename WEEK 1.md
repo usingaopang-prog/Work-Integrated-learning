@@ -16,7 +16,7 @@ I attended a **Coxy Wallet event**, where Mr. Bernard Sebanda introduced me to *
 ## Day 4 — 14 September 2026
 
 My facilitator, **Mr. F. Kato**, assigned me and my colleagues the task of inspecting the hardware at the office to ensure that all equipment was functioning efficiently. We conducted a thorough inspection and collaboratively compiled a report detailing our findings and observations.
-https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#computer-investigation-report
+https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#computer-investigation-report 
 ## Day 5 — 16 September 2026
 
 Mr. Sebanda organized an online meeting to discuss the team's progress on the **donation app** currently under development. The team provided updates on their **software development** activities, and I gained insight into the collaborative processes involved in application development.
