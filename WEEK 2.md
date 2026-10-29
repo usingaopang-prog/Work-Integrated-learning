@@ -14,7 +14,7 @@ https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--
 
 ## Day 8 — 25 September 2026
 
-We designed the UI and uploaded it through my GitHub profile. Part of the software engineering regeneration was complete.
+Completed the UI design phase and uploaded the deliverables to my GitHub repository via my profile, applying version control and source code management practices. The UI artefacts were committed and pushed to the repository, which now serves as the centralised, version-controlled baseline for the project. This completes part of the software engineering regeneration phase, with the repository supporting subsequent development, review, and traceability of changes.
 https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--ui-design-specification 
 ---
 
@@ -26,5 +26,4 @@ https://coxygen.co/universities/lms/certificate-pdf.php?code=COXY-2026-8B68D6B38
 
 ## Day 10 — 27 September 2026
 
-Mr Bernard requested that I join a Google meeting to discuss the completion of my Blockchain Silver Wallet certification. The progress of my WIL was also discussed in the meeting.
-
+Attended a Google Meet session at Mr Bernard’s request to discuss the completion of my Blockchain Silver Wallet certification, including certification requirements, progress tracking, and remaining deliverables. The meeting also covered a progress review of my Work-Integrated Learning (WIL), focusing on current milestones, task completion, and any outstanding actions required to ensure successful delivery.
