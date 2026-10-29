@@ -9,13 +9,13 @@ https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#c
 ## Day 7 — 21 September 2026
 
 My colleagues and I were tasked with making changes to the current Zonke website. This was a software engineering project, and I was tasked with designing the UI with Venesa.
-
+https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--ui-design-specification 
 ---
 
 ## Day 8 — 25 September 2026
 
 We designed the UI and uploaded it through my GitHub profile. Part of the software engineering regeneration was complete.
-
+https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--ui-design-specification 
 ---
 
 ## Day 9 — 26 September 2026
