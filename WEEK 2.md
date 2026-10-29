@@ -3,7 +3,7 @@
 ## Day 6 — 18 September 2026
 
 The team and I compiled a report on the hardware diagnostics conducted on 16 September 2026 and handed it to our facilitator.
-
+https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#computer-investigation-report 
 ---
 
 ## Day 7 — 21 September 2026
