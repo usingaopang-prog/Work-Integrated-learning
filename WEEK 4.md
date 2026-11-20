@@ -18,10 +18,12 @@ https://github.com/usingaopang-prog/Hardware-testing-report/blob/main/hardware%2
 
 ## Day 19 — 26 October 2026
 
+Better improving the zonke application through redefining the blogs section of the zonke application 
 ---
 
 ## Day 20 — 30 October 2026
 
+Finalizing the combination of the changes and combining them into one and publish it onto the c panel so that the application can be live.
 ---
 
 
