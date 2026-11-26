@@ -32,3 +32,6 @@ Evidence:
 https://coxygen.co/universities/lms/certificate-pdf.php?code=COXY-2026-8B68D6B380 
 <img width="720" height="1600" alt="WhatsApp Image 2026-11-26 at 13 30 00" src="https://github.com/user-attachments/assets/68d158c3-c16b-4ec9-b0a8-7fdb23eab126" />
 
+## Day 10 — 28 September 2026
+
+I ensured that the UI design I handed over to the back-end team was in line with the planning that was given to me. 
