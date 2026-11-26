@@ -32,3 +32,7 @@ We were working on Zonke and ensuring that it can run locally. I worked diligent
 
 ## Day 15 - 16 October 2026
 I continued working on the Zonke application and making the nessesary changes.
+
+Evidence:
+https://github.com/FredrickKcode/zonke/blob/main/Zonke%20Revamp%20%E2%80%94%20Local%20Development%20Setup%20and%20Troubleshooting.md#zonke-revamp--group-allocations
+
