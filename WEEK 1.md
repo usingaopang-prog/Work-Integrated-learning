@@ -9,8 +9,10 @@ https://github.com/usingaopang-prog/Zonke-website-survey#webpage-errors-and-issu
  
 ## Day 2 — 7 September 2026
 
-I was introduced to **Haskell**, the programming language used to develop the **Coxy Wallet**. My task was to integrate Haskell into my professional portfolio. This introduction provided me with insight into functional programming concepts and their application in blockchain wallet development.
+I was introduced to **Haskell**, the programming language used to develop the **Coxy Wallet**. My task was to integrate Haskell into my professional portfolio. This introduction provided me with insight into functional programming concepts and their application in blockchain wallet development. I  learned the language through this this platform.
 
+Evidence:
+https://coxygen.co/universities/lms/email-2fa.php
 
 ## Day 3 — 11 September 2026
 
@@ -32,5 +34,7 @@ https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#c
 
 ## Day 5 — 16 September 2026
 
-Mr. Sebanda organized an online meeting to discuss the team's progress on the **donation app** currently under development. The team provided updates on their **software development** activities, and I gained insight into the collaborative processes involved in application development.
+Mr. Sebanda organized an online meeting to discuss the team's progress on the **donation app** currently under development. The team provided updates on their **software development** activities, and I gained insight into the collaborative processes involved in application development. 
+
+
 
