@@ -18,12 +18,12 @@ https://github.com/usingaopang-prog/Hardware-testing-report/blob/main/hardware%2
 
 ## Day 19 — 26 October 2026
 
-Better improving the zonke application through redefining the blogs section of the zonke application 
+Better improving the zonke application through redefining the blogs section of the zonke application. I added the code used to insert the pictures on the application.
 ---
 
 ## Day 20 — 30 October 2026
 
-Finalizing the combination of the changes and combining them into one and publish it onto the c panel so that the application can be live.
+Finalizing the combination of the changes and combining them into one and publish it onto the c panel so that the application can be live. I checked if the code I added on the pictures and information added on the blogs is there and is working locally on the machine that is being used to publish the application online.
 ---
 
 
