@@ -2,7 +2,7 @@
 
 ## Day 11 — 28 September 2026
 
-I ensured that the UI I handed over to the back-end team was in line with the planning that was given to me.
+I ensured that the UI design I handed over to the back-end team was in line with the planning that was given to me. 
 
 ---
 
@@ -15,12 +15,16 @@ Mr Sebanda paid us a visit to perform troubleshooting by installing a new Wi-Fi 
 ## Day 13 — 5 October 2026
 
 Mr Sebanda requested that we perform website restoration on the **Zonke website**, and he introduced my colleagues and me to two new platforms that are completely new to us as students — something we haven't used at school or been introduced to at school: **cPanel** and **Laravel**.
+
+Evidence:
 https://ls29.host-ww.net:2222/evo/filemanager/files?path=/domains/zonke.me 
 ---
 
 ## Day 14 — 7 October 2026
 
 I requested that a meeting be held for the software restoration of the **Zonke website** and to discuss with the team how we would go about the adjustments to the code, given that the code used was **PHP** and one should be able to use it and work their way around it.
+
+Evidence:
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/0cdaacf2-2c15-4a07-add4-439a688070ce" />
 
 (To join the meeting on Google Meet, click this link: 
