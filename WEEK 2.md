@@ -2,7 +2,7 @@
 
 ## Day 6 — 18 September 2026
 
-The team and I compiled a report on the hardware diagnostics conducted on 16 September 2026 and handed it to our facilitator.
+I compiled a report on the hardware diagnostics conducted on 16 September 2026 and handed it to our facilitator.
 
 Evidence:
 https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#computer-investigation-report 
@@ -10,7 +10,7 @@ https://github.com/usingaopang-prog/Computer-investigation/blob/main/README.md#c
 
 ## Day 7 — 21 September 2026
 
-My colleagues and I were tasked with making changes to the current Zonke website. This was a software engineering project, and I was tasked with designing the UI with Venesa.
+I was tasked with making changes to the current Zonke website. This was a software engineering project, and I was tasked with designing the UI with Venesa.
 
 Evidence:
 https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--ui-design-specification 
