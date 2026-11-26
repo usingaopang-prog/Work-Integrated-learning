@@ -20,6 +20,7 @@ Better improving the zonke application through redefining the blogs section of t
 
 Finalizing the combination of the changes and combining them into one and publish it onto the c panel so that the application can be live. I checked if the code I added on the pictures and information added on the blogs is there and is working locally on the machine that is being used to publish the application online.
 ---
+## Day 21 - 2 November 2026
 
-
+I uploaded the updated files of the Zonke website on C panel and checked if it runs found out that there is an issue with my database and I have to update my laptop to complete the task successfully. 
 
