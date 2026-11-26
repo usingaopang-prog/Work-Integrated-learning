@@ -24,3 +24,5 @@ Finalizing the combination of the changes and combining them into one and publis
 
 I uploaded the updated files of the Zonke website on C panel and checked if it runs found out that there is an issue with my database and I have to update my laptop to complete the task successfully. 
 
+---
+
