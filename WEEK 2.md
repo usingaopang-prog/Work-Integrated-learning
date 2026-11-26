@@ -28,10 +28,13 @@ https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--
 
 I took the initiative to complete my Blockchain Cardano Silver Wallet and received my certificate on this day. Completing the Blockchain Cardano Silver Wallet certification taught me how to fully work my way around the Coxy Wallet.
 
-Evidence:
-https://coxygen.co/universities/lms/certificate-pdf.php?code=COXY-2026-8B68D6B380 
 ---
 
 ## Day 10 — 27 September 2026
 
 Attended a Google Meet session at Mr Bernard’s request to discuss the completion of my Blockchain Silver Wallet certification, including certification requirements, progress tracking, and remaining deliverables. The meeting also covered a progress review of my Work-Integrated Learning (WIL), focusing on current milestones, task completion, and any outstanding actions required to ensure successful delivery.
+
+Evidence:
+https://coxygen.co/universities/lms/certificate-pdf.php?code=COXY-2026-8B68D6B380 
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-26 at 13 30 00" src="https://github.com/user-attachments/assets/68d158c3-c16b-4ec9-b0a8-7fdb23eab126" />
+
