@@ -1,9 +1,4 @@
 # Week 3
-
-## Day 11 — 28 September 2026
-
-I ensured that the UI design I handed over to the back-end team was in line with the planning that was given to me. 
-
 ---
 
 ## Day 12 — 2 October 2026
