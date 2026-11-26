@@ -30,5 +30,5 @@ Or open Meet and enter this code: bsc-ezja-trs)
 
 We were working on Zonke and ensuring that it can run locally. I worked diligently and ensured that the code is running smoothly.
 
-## Day 15 - 19 October 2026
+## Day 15 - 16 October 2026
 I continued working on the Zonke application and making the nessesary changes.
