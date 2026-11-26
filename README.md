@@ -1,7 +1,7 @@
 # Work-Integrated Learning (WIL) Portfolio
 
 **Program:** Work-Integrated Learning at Richfield  
-**Duration:** 4 Weeks (4 September – 30 October 2026)  
+**Duration:** 4 Weeks (4 September – 2 November 2026)  
 **Focus:** Industry experience in software evaluation, UI design, blockchain technology, hardware diagnostics, and website restoration
 
 ---
