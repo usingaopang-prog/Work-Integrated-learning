@@ -24,13 +24,7 @@ Evidence:
 https://github.com/FredrickKcode/zonke/blob/main/UI%20desgin/design.md#zonkeme--ui-design-specification 
 ---
 
-## Day 9 — 26 September 2026
-
-I took the initiative to complete my Blockchain Cardano Silver Wallet and received my certificate on this day. Completing the Blockchain Cardano Silver Wallet certification taught me how to fully work my way around the Coxy Wallet.
-
----
-
-## Day 10 — 27 September 2026
+## Day 9 — 27 September 2026
 
 Attended a Google Meet session at Mr Bernard’s request to discuss the completion of my Blockchain Silver Wallet certification, including certification requirements, progress tracking, and remaining deliverables. The meeting also covered a progress review of my Work-Integrated Learning (WIL), focusing on current milestones, task completion, and any outstanding actions required to ensure successful delivery.
 
